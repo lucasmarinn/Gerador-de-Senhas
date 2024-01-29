@@ -15,3 +15,7 @@ Certifique-se de ter o Python instalado em seu sistema. Em seguida, execute o sc
 
 ```bash
 python main.py
+```
+
+## Agradecimentos
+Este projeto foi desenvolvido com base em um tutorial do canal Usando Python no YouTube. O tutorial forneceu insights valiosos sobre a criação de interfaces gráficas com Tkinter em Python.
