@@ -13,4 +13,5 @@ Este é um programa simples em Python que utiliza a biblioteca Tkinter para cria
 
 Certifique-se de ter o Python instalado em seu sistema. Em seguida, execute o script Python `main.py` para iniciar a aplicação.
 
-```
+```bash
+python main.py
